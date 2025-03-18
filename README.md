@@ -10,7 +10,7 @@
 
 ### 📚 **Formação Acadêmica**
 - **Técnico em Informática**  
-  Instituto Federal do Mato Grosso do Sul (IFMS) Campus Jardim
+  Instituto Federal do Mato Grosso do Sul (IFMS) Campus Jardim  
   2018 - 2021
 - **Engenharia de Software**  
   Unigran  
@@ -36,9 +36,9 @@
 
 <div align="center">
   
-![Estatísticas Enzo](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&hide_border=true)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=dark&hide_border=true)
+![Estatísticas Enzo](https://github-readme-stats.vercel.app/api?username=EnzoKG&show_icons=true&theme=dark&hide_border=true)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKG&layout=compact&theme=dark&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoKG&theme=dark&hide_border=true)
 
 </div>
 
