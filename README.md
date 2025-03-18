@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Olá, eu sou o Enzo! 
+# 🚀 Olá, me chamo Enzo! 
   
 ### *"A tecnologia move o mundo, e eu adoro fazer parte dessa revolução!"* 💻🌎
 
@@ -37,7 +37,7 @@
 <div align="center">
   
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKG&layout=compact&theme=dark&hide_border=true)  
-![Stats](https://github-readme-stats.vercel.app/api?username=EnzoKG&show_icons=true&include_all_commits=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=EnzoKG&show_icons=true&include_all_commits=true&theme=dracula)
 
 </div>
 
