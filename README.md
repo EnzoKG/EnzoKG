@@ -38,7 +38,7 @@
   
 ![Estatísticas Enzo](https://github-readme-stats.vercel.app/api?username=EnzoKG&show_icons=true&theme=dark&hide_border=true)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKG&layout=compact&theme=dark&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=EnzoKG&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=EnzoKG&theme=radical&mode=weekly)
 
 </div>
 
