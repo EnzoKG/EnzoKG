@@ -2,7 +2,7 @@
   
 # 🚀 Olá, me chamo Enzo! 
   
-### *"A tecnologia move o mundo, e eu adoro fazer parte dessa revolução!"* 💻🌎
+### *Sou apaixonado por tecnologia e tenho alta adaptabilidade para novos desafios e linguagens de programação.*
 
 </div>
 
@@ -50,7 +50,6 @@
 
 ---
 
-### 💡 **Se inspire**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Frases inspiradoras">
 </p>
