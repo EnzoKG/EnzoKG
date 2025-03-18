@@ -2,7 +2,7 @@
   
 # 🚀 Olá, me chamo Enzo! 
   
-### *Sou apaixonado por tecnologia e tenho alta adaptabilidade para novos desafios e linguagens de programação.*
+### *Sou entusiasta de tecnologia com sólida capacidade de adaptação a novos desafios e domínio rápido de linguagens de programação e ferramentas inovadoras.*
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 📚 **Formação Acadêmica**
 - **Técnico em Informática**  
-  Instituto Federal do Mato Grosso do Sul (IFMS) Campus Jardim  
+  Instituto Federal do Mato Grosso do Sul (IFMS) / Campus Jardim  
   2018 - 2021
 - **Engenharia de Software**  
   Unigran  
