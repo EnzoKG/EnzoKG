@@ -36,9 +36,8 @@
 
 <div align="center">
   
-![Estatísticas Enzo](https://github-readme-stats.vercel.app/api?username=EnzoKG&show_icons=true&theme=dark&hide_border=true)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoKG&layout=compact&theme=dark&hide_border=true)  
-![Stats](https://github-readme-stats.vercel.app/api?username=EnzoKG&show_icons=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=EnzoKG&show_icons=true&include_all_commits=true&theme=transparent)
 
 </div>
 
